@@ -10,3 +10,8 @@ O ChatGPT é mais do que apenas um chatbot – é um avanço na inteligência ar
 ⬇️Acesse meu e-book nesse link abaixo⬇️
 
 [Mestre.do.pdf](https://github.com/user-attachments/files/15780726/Mestre.do.pdf)
+
+Referências:
+
+- Esse projeto foi desenvolvido com a ajuda da plataforma DIO https://www.dio.me/
+- OpenIA https://openai.com/
